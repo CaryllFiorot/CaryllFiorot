@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caryll Fiorot
 - 👀 I’m interested in software implementation, machine learning, and music.
-- 🌱 I’m currently working at Arcori Inc. after graduating with a Bachelor's in software engineering.
+- 🌱 I’m currently working at Arcori Inc. after graduating with a Bachelor's in Software Engineering from Lakehead University.
 - 📫 How to reach me: caryllfiorot@gmail.com
 
 <!---
